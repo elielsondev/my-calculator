@@ -1,0 +1,40 @@
+.Calculator {
+  margin: auto;
+  background-color: #1c1c1c;
+  border-radius: 1em;
+  width: 350px;
+  height: 450px;
+  padding: 1em;
+}
+
+button {
+  width: 3em;
+  height: 3em;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 2em;
+  margin: 0.3em;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.ButtonGrayDark {
+  color: #D4D4D2;
+  background-color: #505050;
+}
+
+.ButtonGray {
+  color: #1c1c1c;
+  background-color: #D4D4D2;
+}
+
+.ButtonOrange {
+  color: #D4D4D2;
+  background-color: #FF9500;
+}
+
+#Zero {
+ padding: 0em 3.3em;
+}
