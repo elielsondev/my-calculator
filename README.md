@@ -6,9 +6,9 @@ Desenvolvimento de uma calculadora, utilizando React, CSS e HTML.
 ![Captura de tela de 2022-02-15 01-06-28](https://user-images.githubusercontent.com/83602931/153993018-4af17db5-6f7e-45e2-8d11-28cc53239df1.png)
 
 ## Tecnologias e Ferramentas Utilizadas:
-<h3>React</h3>
-<h3>HTML5</h3>
-<h3>CSS3</h3>
+<h4>React</h4>
+<h4>HTML5</h4>
+<h4>CSS3</h4>
  
 ## Desenvolvedor:
 [<h3><b>Elielson Nascimento</b></h3>](https://github.com/elielsondev)
