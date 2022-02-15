@@ -1,13 +1,17 @@
+.Align {
+  padding: 2em;
+}
+
 .Calculator {
   margin: auto;
   background-color: #1c1c1c;
   border-radius: 1em;
   width: 350px;
-  height: 450px;
-  padding: 1em;
+  height: 570px;
+  padding: 0.1em 1em;
 }
 
-button {
+button, input {
   width: 3em;
   height: 3em;
   font-size: 1.5em;
@@ -37,4 +41,14 @@ button:hover {
 
 #Zero {
  padding: 0em 3.3em;
+}
+
+.Result {
+  max-width: 11ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align: end;
+  font-size: 3.3em;
+  color: #D4D4D2;
 }
