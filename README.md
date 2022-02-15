@@ -11,7 +11,7 @@ Desenvolvimento de uma calculadora, utilizando React, CSS e HTML.
 <h3>CSS3</h3>
  
 ## Desenvolvedor:
-[<b>Elielson Nascimento</b>](https://github.com/elielsondev)
+[<h3><b>Elielson Nascimento</b></h3>](https://github.com/elielsondev)
 
 ### Clique e Confira meu Portfólio: [Portfólio Elielson](https://elielsondev.github.io/elielson-web-portifolio/)
 
