@@ -9,11 +9,8 @@ Desenvolvimento de uma calculadora, utilizando React, CSS e HTML.
 <h4>React</h4>
 <h4>HTML5</h4>
 <h4>CSS3</h4>
- 
-## Desenvolvedor:
-[<h3><b>Elielson Nascimento</b></h3>](https://github.com/elielsondev)
 
-<!--### Clique e Confira meu Portfólio: [Portfólio Elielson](https://elielsondev.github.io/elielson-web-portifolio/)-->
-
-### Conecte-se Comigo: [LinkedIn](https://www.linkedin.com/in/elielsondev/)
+### Conecte-se Comigo: 
+[LinkedIn - Elielson Nascimento](https://www.linkedin.com/in/elielsondev/)
+[Portfolio - Elielson Nascimento](https://elielsondev.github.io/my-portfolio)
 
