@@ -3,11 +3,12 @@
 Desenvolvimento de uma calculadora, utilizando React, CSS e Hooks.
 [Clique aqui para conferir o Deploy.](https://elielsondev.github.io/my-calculator/)
 
+### Sobre:
 O projeto foi elaborado para conseguir resolver problemas matemáticos 'simples'.
 
 ![Captura de tela de 2022-02-15 01-06-28](https://user-images.githubusercontent.com/83602931/153993018-4af17db5-6f7e-45e2-8d11-28cc53239df1.png)
 
-## Tecnologias e Ferramentas Utilizadas:
+### Tecnologias utilizadas:
 React;
 
 Hooks;
